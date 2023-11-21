@@ -20,10 +20,7 @@ const Card = () => {
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus
           consequuntur delectus quas eaque quae dicta ipsa, quidem, perspiciatis
           excepturi voluptatum accusamus ex aliquam harum sed quos dolorum totam
-          illo quam. Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-          Id dolore odit libero cum laudantium quaerat ipsum quia quo? Impedit
-          vel blanditiis esse ea sunt voluptatibus eligendi veniam ratione sit
-          quia?...
+          illo quam.
         </p>
         <Link href="/" className={styles.link}>Read More</Link>
       </div>
