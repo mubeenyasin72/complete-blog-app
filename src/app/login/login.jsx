@@ -4,6 +4,9 @@ const LoginPage = () => {
   return (
     <div className={styles.container}>
       this is the login page..
+      <div className={styles.body}>
+      this is login page body...
+      </div>
     </div>
   )
 }
