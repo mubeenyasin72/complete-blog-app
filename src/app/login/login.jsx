@@ -13,6 +13,11 @@ const LoginPage = () => {
         this is login page body... this is login page body... this is login page
         body...
       </div>
+      this is the login page..
+      <div className={styles.body}>
+        this is login page body... this is login page body... this is login page
+        body...
+      </div>
 
     </div>
   );
