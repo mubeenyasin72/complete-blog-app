@@ -14,9 +14,6 @@ const LoginPage = () => {
         body...
       </div>
       this is the login page..
-
-
-
     </div>
   );
 };
