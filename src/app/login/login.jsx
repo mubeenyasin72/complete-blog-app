@@ -9,7 +9,6 @@ const LoginPage = () => {
         body...
       </div>
       <div className={styles.body}>
-        //
       </div>
     </div>
     
