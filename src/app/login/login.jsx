@@ -9,8 +9,6 @@ const LoginPage = () => {
         body...
       </div>
       <div className={styles.body}>
-            this is the login page..
-
       </div>
     </div>
     
